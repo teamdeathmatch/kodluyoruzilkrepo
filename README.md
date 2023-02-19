@@ -8,6 +8,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 ```
 git clone https://github.com/teamdeathmatch/kodluyoruzilkrepo.git
 ```
+![İlk Projem](ilk-projem.png)
 
 ## Usage
 
@@ -26,3 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen bir önce n
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
