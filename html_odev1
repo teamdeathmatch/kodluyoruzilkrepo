@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -8,10 +7,12 @@
     <title>Mommy 4.0</title>
 </head>
 <body>
+    <!-- ben kimim alanı -->
     <h1 style="color:rgb(4, 91, 62)">Özlem Kayasaroğlu Acar</h1>
     <h3 style="color:rgb(199, 154, 6)">Hakkımda</h3>
     <p style="color:rgb(1, 48, 32)">Profesyonel iş hayatıma <strong>Garanti BBVA</strong> ile başladım. 4 sene sonra ING'de sektöre veda ederek, <strong>Dijital Pazarlama Uzmanı</strong> olarak çalıştım. Pandemiden önce HolaBaby Photo Studio & Agency kurdum fakat resmiyete dökemeden kapatmak zorunda kaldım. 2 sene boyunca tam zamanlı annelik yaptım ve vakit bulduğum zamanlarda Dijital Topuklar başta olmak üzere Pazarlama Türkiye, Natro Blog gibi platformlarda yazı/ makaleler yazmaya devam ediyorum. Şu aralar tek odağım JavaScript öğrenmek ve daha çok öğrenmek:)</p>
    
+    <!-- Hobiler ve rutinler -->
     <h2 style="color:rgb(199, 154, 6)">Gün içinde neler yaparım?</h2>
     <ul style="color:rgb(1, 48, 32)">
         <li>Günün Yemeği</li>
